@@ -11,11 +11,11 @@
 - **Frontend:** HTML, CSS, TypeScript, Vue.js, Nuxt.js, React, Next.js  
 - **Backend:** Node.js, Express.js, Bun, Elysia.js  
 - **Database:** PostgreSQL, MongoDB  
-- **Tools:** Git, Postman, Docker (เริ่มหัด), n8n  
+- **Tools:** Git, Postman, n8n, Ai  
 
 ---
 
-## 📂 โปรเจกต์เด่น
+## 📂 โปรเจกต์ที่เคยทำ
 
 * **🤖 AI Chatbot – งานกิจการนักเรียน โรงเรียนภัทรบพิตร**
   แชตบอตให้ข้อมูลเกี่ยวกับกิจการนักเรียน กฎระเบียบ และกิจกรรมต่างๆ ของโรงเรียน
@@ -34,12 +34,6 @@
 
 ---
 
-## 📊 สถิติเล็กน้อย
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername\&layout=compact\&theme=radical)
-
----
 
 ## 🤝 ติดต่อฉัน
 
