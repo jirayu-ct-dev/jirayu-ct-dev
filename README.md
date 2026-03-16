@@ -40,17 +40,3 @@
 
 * **Email:** jirayu.ct.dev@gmail.com
 * **Facebook:** [Jirayu Chomthong](https://www.facebook.com/jirayu.chomthong.2024/)
-
-* ## 🏆 Certifications & Awards
-
-<details>
-  <summary><b>1. Super AI Engineer Development Program Innovator 2025</b> (คลิกเพื่อดูรูป)</summary>
-  <br>
-  <img src="ใส่ URL รูปภาพของคุณที่นี่" width="600" alt="Super AI Certificate">
-</details>
-
-<details>
-  <summary><b>2. 8th BRICC Festival 2025 - Undergraduate Research Project</b> (คลิกเพื่อดูรูป)</summary>
-  <br>
-  <img src="[ใส่ URL รูปภาพของคุณที่นี่](https://livebruac-my.sharepoint.com/:b:/g/personal/660112230038_live_bru_ac_th/IQBDHtcOD2sWTZv5Uk7H-fUIAZxbZML_XS-cJ4wojOAX-d0?e=oas5ls)" width="600" alt="BRICC Festival Certificate">
-</details>
