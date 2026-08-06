@@ -30,12 +30,14 @@
 
 #### Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mysql,mongodb&theme=dark" height="48" alt="Node.js, Express, Prisma, PostgreSQL, MySQL and MongoDB" />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/fastify/FFFFFF" />
-  <img src="https://cdn.simpleicons.org/fastify/000000" height="48" width="48" alt="Fastify" title="Fastify" />
-</picture>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="48" width="48" alt=".NET SDK" title=".NET SDK" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="48" width="48" alt="Node.js" title="Node.js" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/FFFFFF" /><img src="https://cdn.simpleicons.org/express/000000" height="48" width="48" alt="Express" title="Express" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/fastify/FFFFFF" /><img src="https://cdn.simpleicons.org/fastify/000000" height="48" width="48" alt="Fastify" title="Fastify" /></picture>
+  <img src="https://svgl.app/library/elysiajs.svg" height="48" width="48" alt="Elysia.js" title="Elysia.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="48" width="48" alt=".NET SDK" title=".NET SDK" />
+  <img src="https://skillicons.dev/icons?i=prisma,postgres,mysql,mongodb&theme=dark" height="48" alt="Prisma, PostgreSQL, MySQL and MongoDB" />
+</p>
 
 #### DevOps & Tools
 
@@ -50,7 +52,6 @@
 
 #### Additional Frameworks
 
-![Elysia.js](https://img.shields.io/badge/Elysia.js-7C3AED?style=for-the-badge)
 ![Nuxt UI](https://img.shields.io/badge/Nuxt_UI-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![LIFF](https://img.shields.io/badge/LIFF-00C300?style=for-the-badge&logo=line&logoColor=white)
