@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer · AI & Automation Enthusiast
 
-ผมชอบสร้างเว็บแอปที่ใช้งานได้จริง เชื่อมต่อ AI และออกแบบระบบให้พร้อมเติบโตไปพร้อมกับผู้ใช้
+หน้าที่ของฟิสิกส์ไม่ใช่การบอกว่าธรรมชาติเป็นอย่างไร แต่คือการทำนายว่าเราจะสังเกตเห็นอะไร
 
 [![Email](https://img.shields.io/badge/Email-jirayu.ct.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jirayu.ct.dev@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-Jirayu_Chomthong-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jirayu.chomthong.2024/)
@@ -16,10 +16,9 @@
 
 ## About Me
 
-- นักศึกษาวิทยาการคอมพิวเตอร์ มหาวิทยาลัยราชภัฏบุรีรัมย์
-- สนใจงาน **Full-Stack Development** และการออกแบบระบบที่รวดเร็ว รองรับการขยายตัว
-- สนใจการประยุกต์ใช้ **AI, RAG, Function Calling และ Workflow Automation** เพื่อแก้ปัญหาในโลกจริง
-- เปิดรับโอกาสฝึกงานในตำแหน่ง **Full-Stack Developer**
+ผมเป็นนักศึกษาวิทยาการคอมพิวเตอร์ที่มหาวิทยาลัยราชภัฏบุรีรัมย์ เวลาส่วนใหญ่หมดไปกับการทำเว็บแบบ Full-Stack ลองเครื่องมือใหม่ ๆ และแก้ปัญหาที่เจอระหว่างพัฒนาโปรเจกต์
+
+ผมสนใจ AI และระบบอัตโนมัติ จึงมักทดลองใช้ RAG, Function Calling และ Workflow Automation กับงานที่ทำ นอกเหนือจากการเขียนโปรแกรม ผมชอบอ่านเรื่องดาราศาสตร์และฟิสิกส์ เพราะชอบวิธีที่วิทยาศาสตร์ตั้งคำถามและตรวจสอบคำตอบจากสิ่งที่สังเกตได้
 
 ## Tech Stack
 
