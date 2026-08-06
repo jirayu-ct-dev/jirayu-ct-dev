@@ -2,8 +2,6 @@
 
 <img src="./assets/github-header-banner.png" width="100%" alt="Jirayu Chomthong - Fullstack Developer" />
 
-# Hi, I'm Jirayu Chomthong 👋
-
 ### Full-Stack Developer · AI & Automation Enthusiast
 
 ผมชอบสร้างเว็บแอปที่ใช้งานได้จริง เชื่อมต่อ AI และออกแบบระบบให้พร้อมเติบโตไปพร้อมกับผู้ใช้
@@ -16,14 +14,14 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 นักศึกษาวิทยาการคอมพิวเตอร์ มหาวิทยาลัยราชภัฏบุรีรัมย์
-- 🚀 สนใจงาน **Full-Stack Development** และการออกแบบระบบที่รวดเร็ว รองรับการขยายตัว
-- 🤖 สนใจการประยุกต์ใช้ **AI, RAG, Function Calling และ Workflow Automation** เพื่อแก้ปัญหาในโลกจริง
-- 🎯 เปิดรับโอกาสฝึกงานในตำแหน่ง **Full-Stack Developer**
+- นักศึกษาวิทยาการคอมพิวเตอร์ มหาวิทยาลัยราชภัฏบุรีรัมย์
+- สนใจงาน **Full-Stack Development** และการออกแบบระบบที่รวดเร็ว รองรับการขยายตัว
+- สนใจการประยุกต์ใช้ **AI, RAG, Function Calling และ Workflow Automation** เพื่อแก้ปัญหาในโลกจริง
+- เปิดรับโอกาสฝึกงานในตำแหน่ง **Full-Stack Developer**
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -33,10 +31,12 @@
 
 #### Backend & Database
 
-[![Backend and Database](https://skillicons.dev/icons?i=nodejs,express,dotnet,prisma,postgres,mysql,mongodb&theme=dark)](https://skillicons.dev)
-
-![Fastify](https://img.shields.io/badge/Fastify-202020?style=for-the-badge&logo=fastify&logoColor=white)
-![.NET SDK](https://img.shields.io/badge/.NET_SDK-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mysql,mongodb&theme=dark" height="48" alt="Node.js, Express, Prisma, PostgreSQL, MySQL and MongoDB" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/fastify/FFFFFF" />
+  <img src="https://cdn.simpleicons.org/fastify/000000" height="48" width="48" alt="Fastify" title="Fastify" />
+</picture>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="48" width="48" alt=".NET SDK" title=".NET SDK" />
 
 #### DevOps & Tools
 
@@ -49,34 +49,60 @@
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![AI](https://img.shields.io/badge/AI-RAG_%C2%B7_Function_Calling-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
 
-<sub>Also working with Elysia.js, Nuxt UI, shadcn/ui and LIFF</sub>
+#### Additional Frameworks
+
+![Elysia.js](https://img.shields.io/badge/Elysia.js-7C3AED?style=for-the-badge)
+![Nuxt UI](https://img.shields.io/badge/Nuxt_UI-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![LIFF](https://img.shields.io/badge/LIFF-00C300?style=for-the-badge&logo=line&logoColor=white)
 
 </div>
 
-## 🚀 Featured Projects
+### AI-Assisted Development
 
-### 🧺 SaiJai Phareab Laundry Service
+<div align="center">
+
+![Codex](https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Hermes](https://img.shields.io/badge/Hermes-4338CA?style=for-the-badge)
+![Klowless](https://img.shields.io/badge/Klowless-2563EB?style=for-the-badge)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
+
+![AI Harness](https://img.shields.io/badge/AI_Harness-1F2937?style=flat-square)
+![Agentic Workflow](https://img.shields.io/badge/Agentic_Workflow-0F766E?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square)
+![Function Calling](https://img.shields.io/badge/Function_Calling-2563EB?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-EA580C?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-CA8A04?style=flat-square)
+
+</div>
+
+เข้าใจการออกแบบ AI workflow ตั้งแต่ context, prompt, tools, permissions และ feedback loop รวมถึงการใช้ AI coding tools เพื่อวิเคราะห์ วางแผน พัฒนา และตรวจสอบโค้ด
+
+## Featured Projects
+
+### SaiJai Phareab Laundry Service
 
 **Senior Project · Ongoing** — ระบบบริหารจัดการร้านซักรีดแบบ Full-Stack พร้อมระบบจัดคิวอัตโนมัติ ติดตามสถานะออเดอร์แบบ Real-time ระบบโปรโมชัน และ AI Chatbot แบบ Function Calling
 
 `Nuxt` `TypeScript` `PostgreSQL` `Prisma`
 
-### 🧠 Mental Health Support & Depression Screening AI Chatbot
+### Mental Health Support & Depression Screening AI Chatbot
 
 ผลงานในการแข่งขัน **8th BRICC Festival 2025** — แชตบอต AI สำหรับคัดกรองภาวะซึมเศร้าและให้คำปรึกษาเบื้องต้น โดยเรียนรู้บริบททางอารมณ์จากบทสนทนาในชุมชนออนไลน์ เพื่อสร้างคำตอบที่มีความเห็นอกเห็นใจ
 
-### 🏆 Super AI Engineer Development Program Innovator 2025
+### Super AI Engineer Development Program Innovator 2025
 
 - **Phattharaborpit School AI Chatbot** — แชตบอตให้ข้อมูลกิจการนักเรียนและกฎระเบียบของโรงเรียน
 - **Buriram Brainwave AI** — ออกแบบสถาปัตยกรรมแพลตฟอร์มศูนย์รวมหลักสูตรและวัฒนธรรมระดับจังหวัด พร้อมแชตบอตแนะนำคอร์สเรียน
 
-### 🏛️ Public Service & Agriculture Chatbots
+### Public Service & Agriculture Chatbots
 
 ระบบ AI แบบ RAG เชื่อมต่อ LINE OA สำหรับ **อบต.สระแก้ว**, **อบต.หนองชัยศรี** และ **โครงการ BRU เพื่อการเกษตร** ช่วยให้ประชาชนและเกษตรกรเข้าถึงข้อมูลได้สะดวกขึ้น
 
 ---
 
-## 🏅 Certifications & Achievements
+## Certifications & Achievements
 
 ### Highlights
 
@@ -94,8 +120,8 @@
 <a href="https://github.com/jirayu-ct-dev/My-Certificates/blob/main/Super%20AI%20Engineer%202025%20-%20EN.png">
   <img src="https://raw.githubusercontent.com/jirayu-ct-dev/My-Certificates/main/Super%20AI%20Engineer%202025%20-%20EN.png" width="48%" alt="Super AI Engineer Season 5 certificate" />
 </a>
-<a href="https://github.com/jirayu-ct-dev/My-Certificates/blob/main/borntodev-academy_Building%20LINE%20Chatbot%20with%20ChatGPT%20and%20Gemini_certificate.png">
-  <img src="https://raw.githubusercontent.com/jirayu-ct-dev/My-Certificates/main/borntodev-academy_Building%20LINE%20Chatbot%20with%20ChatGPT%20and%20Gemini_certificate.png" width="48%" alt="Building LINE Chatbot with ChatGPT and Gemini certificate" />
+<a href="https://github.com/jirayu-ct-dev/My-Certificates/blob/main/AWS%20Thaksa%20AI_%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%B8%20%E0%B8%8A%E0%B8%A1%E0%B8%97%E0%B8%AD%E0%B8%87.pdf">
+  <img src="./assets/aws-thaksa-ai.png" width="48%" alt="AWS Thaksa AI certificate" />
 </a>
 
 ### [ดูเกียรติบัตรทั้งหมด →](https://github.com/jirayu-ct-dev/My-Certificates)
@@ -106,8 +132,8 @@
 
 <div align="center">
 
-### Let's build something useful together 🚀
+### Let's build something useful together
 
-📫 **jirayu.ct.dev@gmail.com**
+**jirayu.ct.dev@gmail.com**
 
 </div>
