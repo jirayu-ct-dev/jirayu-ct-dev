@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Jirayu Chomthong - Full-Stack Developer</title>
+  <desc id="desc">A subtle animated black and yellow network banner</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050505"/>
+      <stop offset="0.55" stop-color="#0a0a08"/>
+      <stop offset="1" stop-color="#030303"/>
+    </linearGradient>
+
+    <linearGradient id="energy" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#facc15" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#fde047" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#facc15" stop-opacity="0"/>
+    </linearGradient>
+
+    <radialGradient id="softGlow">
+      <stop offset="0" stop-color="#facc15" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#facc15" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .network {
+        fill: none;
+        stroke: #facc15;
+        stroke-width: 1;
+        stroke-opacity: 0.13;
+      }
+      .node {
+        fill: #fde047;
+        opacity: 0.32;
+      }
+      .name {
+        fill: #f8fafc;
+        font: 500 54px 'Segoe UI', Arial, sans-serif;
+        letter-spacing: 1px;
+      }
+      .role {
+        fill: #facc15;
+        font: italic 600 25px 'Segoe UI', Arial, sans-serif;
+        letter-spacing: 2px;
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="360" fill="url(#background)"/>
+  <ellipse cx="375" cy="190" rx="360" ry="210" fill="url(#softGlow)"/>
+
+  <g class="network">
+    <path d="M0 75 L110 42 L205 106 L320 58 L430 118 L540 70 L660 126 L770 62 L890 112 L1010 55 L1200 105"/>
+    <path d="M0 176 L92 132 L205 188 L320 128 L430 200 L550 142 L660 210 L785 145 L890 205 L1022 148 L1200 190"/>
+    <path d="M0 285 L115 238 L225 305 L340 244 L458 312 L575 248 L700 304 L820 238 L940 298 L1060 242 L1200 285"/>
+    <path d="M110 42 L92 132 L115 238 M205 106 L205 188 L225 305 M320 58 L320 128 L340 244 M430 118 L430 200 L458 312 M540 70 L550 142 L575 248 M660 126 L660 210 L700 304 M770 62 L785 145 L820 238 M890 112 L890 205 L940 298 M1010 55 L1022 148 L1060 242"/>
+  </g>
+
+  <path d="M-220 176 L92 132 L205 188 L320 128 L430 200 L550 142 L660 210 L785 145 L890 205 L1022 148 L1420 190"
+        fill="none" stroke="url(#energy)" stroke-width="1.6" stroke-dasharray="170 1500" filter="url(#glow)">
+    <animate attributeName="stroke-dashoffset" values="1670;0" dur="9s" repeatCount="indefinite"/>
+  </path>
+
+  <g>
+    <circle class="node" cx="92" cy="132" r="3"><animate attributeName="opacity" values="0.25;0.7;0.25" dur="4.8s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="320" cy="128" r="3"><animate attributeName="opacity" values="0.25;0.65;0.25" dur="5.6s" begin="1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="550" cy="142" r="3"><animate attributeName="opacity" values="0.2;0.65;0.2" dur="6.2s" begin="2s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="785" cy="145" r="3"><animate attributeName="opacity" values="0.2;0.6;0.2" dur="5.2s" begin="0.5s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="1022" cy="148" r="3"><animate attributeName="opacity" values="0.2;0.6;0.2" dur="6.8s" begin="1.5s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g transform="translate(70 0)">
+    <text class="name" x="0" y="183">Hey! I am Jirayu Chomthong</text>
+    <text class="role" x="3" y="226">FULL-STACK DEVELOPER</text>
+    <rect x="3" y="244" width="190" height="2" rx="1" fill="#facc15" opacity="0.75">
+      <animate attributeName="width" values="45;190;45" dur="7s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

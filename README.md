@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/github-header-banner.png" width="100%" alt="Jirayu Chomthong - Fullstack Developer" />
+<img src="./assets/github-header-banner.svg" width="100%" alt="Jirayu Chomthong - Full-Stack Developer" />
 
 ### Full-Stack Developer · AI & Automation Enthusiast
 
