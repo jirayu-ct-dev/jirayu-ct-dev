@@ -97,7 +97,7 @@
 
   <g transform="translate(70 0)">
     <text class="name" x="0" y="172">Hey! I am Jirayu Chomthong</text>
-    <text class="role" x="3" y="218">FULL-STACK DEVELOPER</text>
+    <text class="role" x="3" y="218">ARTIFICIAL INTELLIGENCE AND COMPUTING ENGINEER</text>
     <line x1="3" y1="237" x2="210" y2="237" stroke="#67e8f9" stroke-width="2" opacity="0.75">
       <animate attributeName="x2" values="55;210;55" dur="8s" repeatCount="indefinite"/>
     </line>
