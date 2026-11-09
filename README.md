@@ -8,17 +8,10 @@
 
 [![Email](https://img.shields.io/badge/Email-jirayu.ct.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jirayu.ct.dev@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-Jirayu_Chomthong-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jirayu.chomthong.2024/)
-[![Certificates](https://img.shields.io/badge/Certificates-View_All-FFB000?style=for-the-badge&logo=google-scholar&logoColor=white)](https://github.com/jirayu-ct-dev/My-Certificates)
 
 </div>
 
 ---
-
-## About Me
-
-ผมเป็นนักศึกษาวิทยาการคอมพิวเตอร์ที่มหาวิทยาลัยราชภัฏบุรีรัมย์ เวลาส่วนใหญ่หมดไปกับการทำเว็บแบบ Full-Stack ลองเครื่องมือใหม่ ๆ และแก้ปัญหาที่เจอระหว่างพัฒนาโปรเจกต์
-
-ผมสนใจ AI และระบบอัตโนมัติ จึงมักทดลองใช้ RAG, Function Calling และ Workflow Automation กับงานที่ทำ นอกเหนือจากการเขียนโปรแกรม ผมชอบอ่านเรื่องดาราศาสตร์และฟิสิกส์ เพราะชอบวิธีที่วิทยาศาสตร์ตั้งคำถามและตรวจสอบคำตอบจากสิ่งที่สังเกตได้
 
 ## Tech Stack
 
@@ -99,34 +92,6 @@
 ### Public Service & Agriculture Chatbots
 
 ระบบ AI แบบ RAG เชื่อมต่อ LINE OA สำหรับ **อบต.สระแก้ว**, **อบต.หนองชัยศรี** และ **โครงการ BRU เพื่อการเกษตร** ช่วยให้ประชาชนและเกษตรกรเข้าถึงข้อมูลได้สะดวกขึ้น
-
----
-
-## Certifications & Achievements
-
-### Highlights
-
-| Year | Certification / Achievement | Issuer |
-|:---:|---|---|
-| **2026** | [AWS Thaksa AI](https://github.com/jirayu-ct-dev/My-Certificates/blob/main/AWS%20Thaksa%20AI_%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%B8%20%E0%B8%8A%E0%B8%A1%E0%B8%97%E0%B8%AD%E0%B8%87.pdf) | Thammasat University & AWS |
-| **2026** | [มาตรฐานอาชีพนักพัฒนาระบบ ระดับ 3](https://github.com/jirayu-ct-dev/My-Certificates/blob/main/%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B9%E0%B8%95%E0%B8%A3%20%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%20%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%203.pdf) | ARIT |
-| **2025** | [Super AI Engineer Season 5 — Foundation AI (Theory)](https://github.com/jirayu-ct-dev/My-Certificates/blob/main/Super%20AI%20Engineer%202025%20-%20EN.png) | Artificial Intelligence Association of Thailand |
-| **2025** | [ผ่านเข้ารอบ 20 ทีม การประกวดโครงงานวิจัยระดับปริญญาตรี](https://github.com/jirayu-ct-dev/My-Certificates/blob/main/%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B8%95%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%A3-bricc-2025-20-%E0%B8%97%E0%B8%B5%E0%B8%A1.pdf) | 8th BRICC Festival |
-| **2025** | [Building LINE Chatbot with ChatGPT and Gemini](https://github.com/jirayu-ct-dev/My-Certificates/blob/main/borntodev-academy_Building%20LINE%20Chatbot%20with%20ChatGPT%20and%20Gemini_certificate.png) | BorntoDev & LINE Developers |
-| **2025** | [การใช้งาน AI for Thai เพื่อสร้างนวัตกรรม](https://github.com/jirayu-ct-dev/My-Certificates/blob/main/AI%20For%20Thai%20%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1.pdf) | NECTEC, AIAT & BRU |
-
-<div align="center">
-
-<a href="https://github.com/jirayu-ct-dev/My-Certificates/blob/main/Super%20AI%20Engineer%202025%20-%20EN.png">
-  <img src="https://raw.githubusercontent.com/jirayu-ct-dev/My-Certificates/main/Super%20AI%20Engineer%202025%20-%20EN.png" width="48%" alt="Super AI Engineer Season 5 certificate" />
-</a>
-<a href="https://github.com/jirayu-ct-dev/My-Certificates/blob/main/AWS%20Thaksa%20AI_%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%B8%20%E0%B8%8A%E0%B8%A1%E0%B8%97%E0%B8%AD%E0%B8%87.pdf">
-  <img src="./assets/aws-thaksa-ai.png" width="48%" alt="AWS Thaksa AI certificate" />
-</a>
-
-### [ดูเกียรติบัตรทั้งหมด →](https://github.com/jirayu-ct-dev/My-Certificates)
-
-</div>
 
 ---
 
