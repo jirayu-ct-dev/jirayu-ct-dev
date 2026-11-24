@@ -47,15 +47,6 @@
   <img src="https://skillicons.dev/icons?i=prisma,postgres,mysql,mongodb&theme=dark" height="48" alt="Prisma, PostgreSQL, MySQL and MongoDB" />
 </p>
 
-#### AI / Machine Learning
-
-[![ML](https://skillicons.dev/icons?i=py,pytorch,numpy,pandas&theme=dark)](https://skillicons.dev)
-
-![Fine-tuning](https://img.shields.io/badge/Fine--tuning-7C3AED?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Lightning](https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=for-the-badge&logo=lightning&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
 #### DevOps & Tools
 
 [![DevOps and Tools](https://skillicons.dev/icons?i=git,github,docker,linux,postman&theme=dark)](https://skillicons.dev)
