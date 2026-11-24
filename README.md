@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/github-header-banner.svg" width="100%" alt="Jirayu Chomthong - Full-Stack Developer" />
+<img src="./assets/github-header-banner.svg" width="100%" alt="Jirayu Chomthong - Full-Stack AI Developer" />
 
-### Full-Stack Developer · AI & Automation Enthusiast
+### Full-Stack AI Developer · Physics & Astronomy Enthusiast
 
 หน้าที่ของฟิสิกส์ไม่ใช่การบอกว่าธรรมชาติเป็นอย่างไร แต่คือการทำนายว่าเราจะสังเกตเห็นอะไร
 
@@ -13,13 +13,28 @@
 
 ---
 
+## About Me
+
+ผมเป็นนักศึกษาวิทยาการคอมพิวเตอร์ที่มหาวิทยาลัยราชภัฏบุรีรัมย์ สนใจการเอา **AI** มาช่วยทำความเข้าใจ **ดาราศาสตร์** และ **ฟิสิกส์** ไม่ว่าจะเป็นการจำลองปรากฏการณ์เป็นเว็บ หรือฝึกโมเดลให้วิเคราะห์ภาพจากท้องฟ้า
+
+พื้นฐานของผมคือการพัฒนาเว็บแบบ Full-Stack จึงชอบทำสิ่งที่เรียนรู้ให้ใช้งานได้จริง ทั้งระบบอัตโนมัติ RAG และ Function Calling
+
 ## Tech Stack
 
 <div align="center">
 
+#### AI & Machine Learning
+
+[![Python and PyTorch](https://skillicons.dev/icons?i=py,pytorch&theme=dark)](https://skillicons.dev)
+
+![Fine-tuning](https://img.shields.io/badge/Fine--tuning-7C3AED?style=for-the-badge)
+![PyTorch Lightning](https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=for-the-badge&logo=lightning&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-0F766E?style=for-the-badge)
+
 #### Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=ts,js,nuxt,vue,nextjs,react,tailwind&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=ts,js,nuxt,vue,nextjs,react,vite,tailwind&theme=dark)](https://skillicons.dev)
 
 #### Backend & Database
 
@@ -31,6 +46,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="48" width="48" alt=".NET SDK" title=".NET SDK" />
   <img src="https://skillicons.dev/icons?i=prisma,postgres,mysql,mongodb&theme=dark" height="48" alt="Prisma, PostgreSQL, MySQL and MongoDB" />
 </p>
+
+#### AI / Machine Learning
+
+[![ML](https://skillicons.dev/icons?i=py,pytorch,numpy,pandas&theme=dark)](https://skillicons.dev)
+
+![Fine-tuning](https://img.shields.io/badge/Fine--tuning-7C3AED?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Lightning](https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=for-the-badge&logo=lightning&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 #### DevOps & Tools
 
@@ -74,24 +98,26 @@
 
 ## Featured Projects
 
-### SaiJai Phareab Laundry Service
+### Astronomy & Physics
 
-**Senior Project · Ongoing** — ระบบบริหารจัดการร้านซักรีดแบบ Full-Stack พร้อมระบบจัดคิวอัตโนมัติ ติดตามสถานะออเดอร์แบบ Real-time ระบบโปรโมชัน และ AI Chatbot แบบ Function Calling
+| Project | รายละเอียด |
+|---|---|
+| [**Nuclear Energy Lab**](https://github.com/jirayu-ct-dev/nuclear-energy-lab) | เว็บจำลองฟิสิกส์นิวเคลียร์ภาษาไทย ตั้งแต่ฟิชชันหนึ่งครั้ง ปฏิกิริยาลูกโซ่ การควบคุมเครื่องปฏิกรณ์ PWR ไปจนถึงการผลิตไฟฟ้า ปรับแท่งควบคุมและอัตราการไหลได้ พร้อมชุดทดสอบสมดุลพลังงาน |
+| [**Zoobot Galaxy Morphology**](https://github.com/jirayu-ct-dev/zoobot) | ศึกษาและทดลอง fine-tune [Zoobot](https://github.com/mwalmsley/zoobot) โมเดล deep learning ที่ฝึกจากคำตอบของอาสาสมัคร Galaxy Zoo เพื่อวิเคราะห์รูปร่างกาแล็กซี |
 
-`Nuxt` `TypeScript` `PostgreSQL` `Prisma`
+### AI & Chatbot
 
-### Mental Health Support & Depression Screening AI Chatbot
+| Project | รายละเอียด |
+|---|---|
+| **Mental Health Support & Depression Screening AI Chatbot** | แชตบอตคัดกรองภาวะซึมเศร้าและให้คำปรึกษาเบื้องต้น ผลงานใน 8th BRICC Festival 2025 |
+| **Public Service & Agriculture Chatbots** | AI แบบ RAG บน LINE OA สำหรับ อบต.สระแก้ว, อบต.หนองชัยศรี และโครงการ BRU เพื่อการเกษตร |
+| **Super AI Engineer Innovator 2025** | แชตบอตข้อมูลโรงเรียนภัทรบพิธ และ Buriram Brainwave AI แพลตฟอร์มรวมหลักสูตรและวัฒนธรรมระดับจังหวัด |
 
-ผลงานในการแข่งขัน **8th BRICC Festival 2025** — แชตบอต AI สำหรับคัดกรองภาวะซึมเศร้าและให้คำปรึกษาเบื้องต้น โดยเรียนรู้บริบททางอารมณ์จากบทสนทนาในชุมชนออนไลน์ เพื่อสร้างคำตอบที่มีความเห็นอกเห็นใจ
+### Full-Stack
 
-### Super AI Engineer Development Program Innovator 2025
-
-- **Phattharaborpit School AI Chatbot** — แชตบอตให้ข้อมูลกิจการนักเรียนและกฎระเบียบของโรงเรียน
-- **Buriram Brainwave AI** — ออกแบบสถาปัตยกรรมแพลตฟอร์มศูนย์รวมหลักสูตรและวัฒนธรรมระดับจังหวัด พร้อมแชตบอตแนะนำคอร์สเรียน
-
-### Public Service & Agriculture Chatbots
-
-ระบบ AI แบบ RAG เชื่อมต่อ LINE OA สำหรับ **อบต.สระแก้ว**, **อบต.หนองชัยศรี** และ **โครงการ BRU เพื่อการเกษตร** ช่วยให้ประชาชนและเกษตรกรเข้าถึงข้อมูลได้สะดวกขึ้น
+| Project | รายละเอียด |
+|---|---|
+| **SaiJai Phareab Laundry Service** | โปรเจกต์จบ ระบบร้านซักรีด จัดคิวอัตโนมัติ ติดตามออเดอร์ Real-time โปรโมชัน และ AI Chatbot แบบ Function Calling |
 
 ---
 
